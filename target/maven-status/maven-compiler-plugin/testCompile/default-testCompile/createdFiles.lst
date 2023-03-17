@@ -1,0 +1,5 @@
+com/rest/api/post/postBDD.class
+com/rest/api/ResSpec/ResponceSpecBuiltExp.class
+com/rest/api/get/GetBddAPI.class
+com/rest/api/auth/Auth1.class
+com/rest/api/validateSchema/schemaValidation.class
